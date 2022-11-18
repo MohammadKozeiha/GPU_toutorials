@@ -1,5 +1,5 @@
 GPU Commands :
  To dispaly the details and the cmpute processes use the following command
 	$ pip install nvitop
-		Nvitop in the terminal 
-	$ watch -d -n 0.5 nvidia-smi
+	$ run the command "nvitop" in the terminal to moniter  the GPUs
+	$ or use this command to moniter the GPUs "watch -d -n 0.5 nvidia-smi"
