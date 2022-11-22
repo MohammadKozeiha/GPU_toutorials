@@ -3,3 +3,7 @@ GPU Commands :
 	$ pip install nvitop
 	$ run the command "nvitop" in the terminal to moniter  the GPUs
 	$ or use this command to moniter the GPUs "watch -d -n 0.5 nvidia-smi"
+CPU commands :
+ To moniter the details of the cpu of the server
+ 	$ pip install bpytop
+	$ bpytop in the terminal 
